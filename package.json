@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^3.28.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
